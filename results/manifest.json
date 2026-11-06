@@ -1,0 +1,19 @@
+{
+  "saved_utc": "2026-10-21T19:21:22.156735+00:00",
+  "machine": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "model": "Qwen/Qwen3-0.6B",
+  "endpoint": "http://127.0.0.1:8000",
+  "vllm_metal": "reported by the user during Lab 1; verify in server logs",
+  "server_settings_at_lab_start": {
+    "max_model_len": 1024,
+    "max_num_seqs": 2,
+    "gpu_memory_utilization": 0.5
+  },
+  "note": "If server flags changed during notebook, identify variants in run_summaries.csv",
+  "temperature": 0.0,
+  "thinking_kwargs": {
+    "enable_thinking": false
+  },
+  "request_count": 288,
+  "run_count": 18
+}
